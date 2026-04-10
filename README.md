@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajipmahato68" target="blank"><img src="https://img.shields.io/twitter/follow/rajipmahato68?logo=twitter&style=for-the-badge" alt="rajipmahato68" /></a> </p>
 
-- 🔭 I’m currently working on **Buss Ticket Booking App**
+- 🔭 I’m currently working on **Whatsapp clone app**
 
 - 🌱 I’m currently learning **React Native**
 
