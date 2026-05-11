@@ -47,16 +47,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=RajivMahato68&theme=tokyonight)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajivMahato68&theme=tokyo-night)
-# My GitHub Activity
-
-```mermaid
-quadrantChart
-    title Work Contribution
-    x-axis Low Issues --> High Issues
-    y-axis Low Pull Requests --> High Code Review
-    quadrant-1 Review
-    quadrant-2 Commits
-    quadrant-3 PR
-    quadrant-4 Issues
-    "Commits": [0.1, 0.5]
-```
