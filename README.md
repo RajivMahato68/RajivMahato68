@@ -43,6 +43,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivmahato68&show_icons=true&locale=en" alt="rajivmahato68" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajivMahato68&show_icons=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajivMahato68)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RajivMahato68&theme=tokyonight)
 
