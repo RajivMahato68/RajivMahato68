@@ -45,5 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivmahato68&" alt="rajivmahato68" /></p>
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RajivMahato68&theme=tokyonight)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajivMahato68&theme=tokyo-night)
 
