@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://rajivmahato.netlify.app/](https://rajivmahato.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rajivkumarmahato.netlify.app/](https://rajivkumarmahato.netlify.app/)
+
 
 - 💬 Ask me about **React**
 
