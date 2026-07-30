@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rajipmahato68@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wwWvHzrb5UXXyLF-WPCU_UzVpaB1opoh/view?usp=drive_link](https://drive.google.com/file/d/1wwWvHzrb5UXXyLF-WPCU_UzVpaB1opoh/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1CtWrnSW0N9h0a8AqRFZmnKHUKS8nAcGU/view
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
